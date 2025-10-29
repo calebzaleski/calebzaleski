@@ -17,6 +17,8 @@
 - 🌱 Always learning something new in data
 - 🎯 Building projects that make an impact
 - 💻 Love solving problems with code
+- 📍 Works on Ardunio/Pi projects.
+- 💪 Not afriad of hard work.
 
 <br clear="right"/>
 
