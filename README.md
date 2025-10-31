@@ -15,7 +15,7 @@
 - 🎓 High school senior gearing up for college
 - 📈 Future Data Science major
 - 💡 Passionate about math and analytics
-- 🌱 Always learning something new in data
+- 🌱 Always learning something new
 - 🎯 Building projects that make an impact
 - 💻 Love solving problems with code
 - 📍 Works on Arduino/Pi projects
