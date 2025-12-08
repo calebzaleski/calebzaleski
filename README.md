@@ -8,25 +8,10 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-- 🎓 High school senior gearing up for college
-- 📈 Future Data Science major
-- 💡 Passionate about math and analytics
-- 🌱 Always learning something new
-- 🎯 Building projects that make an impact
-- 💻 Love solving problems with code
-- 📍 Works on Arduino/Pi projects
-- 💪 Not afraid of hard work
-
-<br clear="right"/>
-
----
 
 
-## 🛠️ Technologies & Tools I'm Exploring
+
+## Language & Tools
 
 <div align="center">
 
@@ -35,6 +20,10 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
