@@ -7,7 +7,7 @@
     <a href="https://linkedin.com/in/caleb-zaleski" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://main.calebzaleski.com" target="_blank">
+    <a href="https://main.calebzaleski.com/about.html" target="_blank">
       <img src="https://img.shields.io/badge/Website-FFFFFF?style=for-the-badge&logo=safari&logoColor=blue" />
     </a>
   </p>
