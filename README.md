@@ -59,12 +59,10 @@
 
 <div align="center">
   <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Caleb's Stats" />
+  <tr>
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <td width="100%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebzaleski&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
