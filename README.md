@@ -35,7 +35,7 @@
 [![Antigravity](https://img.shields.io/badge/Antigravity-4B2A90?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Gemin](https://img.shields.io/badge/Gemini_(Old)-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
 
 </div>
 
