@@ -22,7 +22,7 @@
 ### 🎓 About Me
 
 - 📚 **Student Developer** Studying CSE in the Honors program at Ohio State University. Class of '30.
-- 💡 Passionate about integrating hardware (microcontrollers) and software systems.
+- 💡 Passionate about integrating hardware and software systems.
 - 🎨 Experienced in 3D modeling and product design using **Autodesk** & **Fusion 360**.
 - 👥 Likes working with others toward a common goal, in and out of school.
 
