@@ -26,18 +26,6 @@
 - 🎨 Experienced in 3D modeling and product design using **Autodesk** & **Fusion 360**.
 - 👥 Likes working with others toward a common goal, in and out of school.
 
----
-
-### 🤖 AI Models & Assistants (Efficient With)
-
-<div align="center">
-
-[![Antigravity](https://img.shields.io/badge/Antigravity-4B2A90?style=for-the-badge&logo=google&logoColor=white)](https://google.com)
-[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini)
-
-</div>
 
 ---
 
